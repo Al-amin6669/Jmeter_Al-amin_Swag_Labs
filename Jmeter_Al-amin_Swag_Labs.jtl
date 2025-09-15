@@ -1,0 +1,601 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1757868749286,358,HTTP Request (GET),200,OK,Swag Labs 1-2,text,true,,3985,234,37,37,https://www.saucedemo.com/,136,0,69
+1757868749286,136,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-2,text,true,,663,115,37,37,http://saucedemo.com/,136,0,69
+1757868749423,221,HTTP Request (GET)-1,200,OK,Swag Labs 1-2,text,true,,3322,119,37,37,https://www.saucedemo.com/,221,0,151
+1757868749380,331,HTTP Request (GET),200,OK,Swag Labs 1-11,text,true,,3985,234,44,44,https://www.saucedemo.com/,128,0,60
+1757868749380,128,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-11,text,true,,663,115,44,44,http://saucedemo.com/,128,0,60
+1757868749508,203,HTTP Request (GET)-1,200,OK,Swag Labs 1-11,text,true,,3322,119,44,44,https://www.saucedemo.com/,203,0,132
+1757868749439,324,HTTP Request (GET),200,OK,Swag Labs 1-17,text,true,,3985,234,49,49,https://www.saucedemo.com/,130,0,68
+1757868749439,130,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-17,text,true,,663,115,49,49,http://saucedemo.com/,130,0,68
+1757868749570,193,HTTP Request (GET)-1,200,OK,Swag Labs 1-17,text,true,,3322,119,49,49,https://www.saucedemo.com/,193,0,130
+1757868749349,422,HTTP Request (GET),200,OK,Swag Labs 1-8,text,true,,3985,234,50,50,https://www.saucedemo.com/,133,0,73
+1757868749349,133,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-8,text,true,,663,115,50,50,http://saucedemo.com/,133,0,73
+1757868749482,289,HTTP Request (GET)-1,200,OK,Swag Labs 1-8,text,true,,3322,119,50,50,https://www.saucedemo.com/,289,0,227
+1757868749645,129,HTTP Request (GET),200,OK,Swag Labs 1-2,text,true,,3985,234,51,51,https://www.saucedemo.com/,65,0,0
+1757868749645,65,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-2,text,true,,663,115,51,51,http://saucedemo.com/,65,0,0
+1757868749710,64,HTTP Request (GET)-1,200,OK,Swag Labs 1-2,text,true,,3322,119,51,51,https://www.saucedemo.com/,63,0,0
+1757868749490,346,HTTP Request (GET),200,OK,Swag Labs 1-22,text,true,,3985,234,56,56,https://www.saucedemo.com/,142,0,74
+1757868749490,142,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-22,text,true,,663,115,56,56,http://saucedemo.com/,142,0,74
+1757868749633,203,HTTP Request (GET)-1,200,OK,Swag Labs 1-22,text,true,,3322,119,56,56,https://www.saucedemo.com/,203,0,135
+1757868749712,141,HTTP Request (GET),200,OK,Swag Labs 1-11,text,true,,3985,234,58,58,https://www.saucedemo.com/,63,0,0
+1757868749712,63,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-11,text,true,,663,115,58,58,http://saucedemo.com/,63,0,0
+1757868749775,78,HTTP Request (GET)-1,200,OK,Swag Labs 1-11,text,true,,3322,119,58,58,https://www.saucedemo.com/,78,0,0
+1757868749763,126,HTTP Request (GET),200,OK,Swag Labs 1-17,text,true,,3985,234,60,60,https://www.saucedemo.com/,63,0,0
+1757868749763,63,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-17,text,true,,663,115,60,60,http://saucedemo.com/,63,0,0
+1757868749826,63,HTTP Request (GET)-1,200,OK,Swag Labs 1-17,text,true,,3322,119,60,60,https://www.saucedemo.com/,63,0,0
+1757868749771,125,HTTP Request (GET),200,OK,Swag Labs 1-8,text,true,,3985,234,60,60,https://www.saucedemo.com/,65,0,0
+1757868749771,65,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-8,text,true,,663,115,60,60,http://saucedemo.com/,65,0,0
+1757868749836,60,HTTP Request (GET)-1,200,OK,Swag Labs 1-8,text,true,,3322,119,60,60,https://www.saucedemo.com/,60,0,0
+1757868749330,603,HTTP Request (GET),200,OK,Swag Labs 1-6,text,true,,3985,234,63,63,https://www.saucedemo.com/,392,0,65
+1757868749330,392,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-6,text,true,,663,115,63,63,http://saucedemo.com/,392,0,65
+1757868749723,210,HTTP Request (GET)-1,200,OK,Swag Labs 1-6,text,true,,3322,119,63,63,https://www.saucedemo.com/,210,0,143
+1757868749617,346,HTTP Request (GET),200,OK,Swag Labs 1-35,text,true,,3985,234,66,66,https://www.saucedemo.com/,135,0,68
+1757868749628,335,HTTP Request (GET),200,OK,Swag Labs 1-36,text,true,,3985,234,66,66,https://www.saucedemo.com/,132,0,66
+1757868749628,132,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-36,text,true,,663,115,66,66,http://saucedemo.com/,132,0,66
+1757868749617,135,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-35,text,true,,663,115,66,66,http://saucedemo.com/,135,0,68
+1757868749761,202,HTTP Request (GET)-1,200,OK,Swag Labs 1-36,text,true,,3322,119,66,66,https://www.saucedemo.com/,202,0,137
+1757868749752,211,HTTP Request (GET)-1,200,OK,Swag Labs 1-35,text,true,,3322,119,66,66,https://www.saucedemo.com/,211,0,146
+1757868749638,335,HTTP Request (GET),200,OK,Swag Labs 1-37,text,true,,3985,234,67,67,https://www.saucedemo.com/,127,0,67
+1757868749638,127,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-37,text,true,,663,115,67,67,http://saucedemo.com/,127,0,67
+1757868749765,208,HTTP Request (GET)-1,200,OK,Swag Labs 1-37,text,true,,3322,119,67,67,https://www.saucedemo.com/,208,0,141
+1757868749686,313,HTTP Request (GET),200,OK,Swag Labs 1-42,text,true,,3985,234,69,69,https://www.saucedemo.com/,127,0,65
+1757868749686,127,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-42,text,true,,663,115,69,69,http://saucedemo.com/,127,0,65
+1757868749813,186,HTTP Request (GET)-1,200,OK,Swag Labs 1-42,text,true,,3322,119,69,69,https://www.saucedemo.com/,186,0,127
+1757868749706,320,HTTP Request (GET),200,OK,Swag Labs 1-44,text,true,,3985,234,73,73,https://www.saucedemo.com/,123,0,61
+1757868749706,123,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-44,text,true,,663,115,73,73,http://saucedemo.com/,123,0,61
+1757868749830,196,HTTP Request (GET)-1,200,OK,Swag Labs 1-44,text,true,,3322,119,73,73,https://www.saucedemo.com/,196,0,131
+1757868749963,134,HTTP Request (GET),200,OK,Swag Labs 1-36,text,true,,3985,234,79,79,https://www.saucedemo.com/,67,0,0
+1757868749963,67,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-36,text,true,,663,115,79,79,http://saucedemo.com/,67,0,0
+1757868750030,67,HTTP Request (GET)-1,200,OK,Swag Labs 1-36,text,true,,3322,119,79,79,https://www.saucedemo.com/,67,0,0
+1757868749775,323,HTTP Request (GET),200,OK,Swag Labs 1-51,text,true,,3985,234,78,78,https://www.saucedemo.com/,135,0,69
+1757868749775,135,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-51,text,true,,663,115,78,78,http://saucedemo.com/,135,0,69
+1757868749910,188,HTTP Request (GET)-1,200,OK,Swag Labs 1-51,text,true,,3322,119,78,78,https://www.saucedemo.com/,187,0,126
+1757868749973,132,HTTP Request (GET),200,OK,Swag Labs 1-37,text,true,,3985,234,80,80,https://www.saucedemo.com/,61,0,0
+1757868749973,61,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-37,text,true,,663,115,80,80,http://saucedemo.com/,61,0,0
+1757868750035,70,HTTP Request (GET)-1,200,OK,Swag Labs 1-37,text,true,,3322,119,80,80,https://www.saucedemo.com/,70,0,0
+1757868749784,335,HTTP Request (GET),200,OK,Swag Labs 1-52,text,true,,3985,234,80,80,https://www.saucedemo.com/,140,0,69
+1757868749784,140,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-52,text,true,,663,115,80,80,http://saucedemo.com/,140,0,69
+1757868749925,194,HTTP Request (GET)-1,200,OK,Swag Labs 1-52,text,true,,3322,119,80,80,https://www.saucedemo.com/,194,0,130
+1757868749863,319,HTTP Request (GET),200,OK,Swag Labs 1-60,text,true,,3985,234,86,86,https://www.saucedemo.com/,123,0,62
+1757868749837,331,HTTP Request (GET),200,OK,Swag Labs 1-57,text,true,,3985,234,85,85,https://www.saucedemo.com/,133,0,67
+1757868749837,133,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-57,text,true,,663,115,85,85,http://saucedemo.com/,133,0,67
+1757868749863,123,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-60,text,true,,663,115,86,86,http://saucedemo.com/,123,0,62
+1757868749971,197,HTTP Request (GET)-1,200,OK,Swag Labs 1-57,text,true,,3322,119,85,85,https://www.saucedemo.com/,197,0,133
+1757868749986,196,HTTP Request (GET)-1,200,OK,Swag Labs 1-60,text,true,,3322,119,86,86,https://www.saucedemo.com/,195,0,130
+1757868749825,334,HTTP Request (GET),200,OK,Swag Labs 1-56,text,true,,3985,234,84,84,https://www.saucedemo.com/,135,0,69
+1757868749825,135,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-56,text,true,,663,115,84,84,http://saucedemo.com/,135,0,69
+1757868749961,198,HTTP Request (GET)-1,200,OK,Swag Labs 1-56,text,true,,3322,119,84,84,https://www.saucedemo.com/,198,0,132
+1757868749794,343,HTTP Request (GET),200,OK,Swag Labs 1-53,text,true,,3985,234,82,82,https://www.saucedemo.com/,137,0,71
+1757868749794,137,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-53,text,true,,663,115,82,82,http://saucedemo.com/,137,0,71
+1757868749932,205,HTTP Request (GET)-1,200,OK,Swag Labs 1-53,text,true,,3322,119,82,82,https://www.saucedemo.com/,205,0,138
+1757868749902,320,HTTP Request (GET),200,OK,Swag Labs 1-64,text,true,,3985,234,90,90,https://www.saucedemo.com/,123,0,60
+1757868749902,123,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-64,text,true,,663,115,90,90,http://saucedemo.com/,123,0,60
+1757868750025,197,HTTP Request (GET)-1,200,OK,Swag Labs 1-64,text,true,,3322,119,90,90,https://www.saucedemo.com/,197,0,132
+1757868749876,350,HTTP Request (GET),200,OK,Swag Labs 1-61,text,true,,3985,234,91,91,https://www.saucedemo.com/,136,0,69
+1757868749876,136,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-61,text,true,,663,115,91,91,http://saucedemo.com/,136,0,69
+1757868750012,214,HTTP Request (GET)-1,200,OK,Swag Labs 1-61,text,true,,3322,119,91,91,https://www.saucedemo.com/,214,0,145
+1757868749341,888,HTTP Request (GET),200,OK,Swag Labs 1-7,text,true,,3985,234,91,91,https://www.saucedemo.com/,147,0,81
+1757868749341,147,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-7,text,true,,663,115,91,91,http://saucedemo.com/,147,0,81
+1757868749489,740,HTTP Request (GET)-1,200,OK,Swag Labs 1-7,text,true,,3322,119,91,91,https://www.saucedemo.com/,740,0,495
+1757868749883,353,HTTP Request (GET),200,OK,Swag Labs 1-62,text,true,,3985,234,92,92,https://www.saucedemo.com/,122,0,62
+1757868749883,122,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-62,text,true,,663,115,92,92,http://saucedemo.com/,122,0,62
+1757868750006,230,HTTP Request (GET)-1,200,OK,Swag Labs 1-62,text,true,,3322,119,92,92,https://www.saucedemo.com/,229,0,160
+1757868749923,322,HTTP Request (GET),200,OK,Swag Labs 1-66,text,true,,3985,234,92,92,https://www.saucedemo.com/,132,0,66
+1757868749923,132,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-66,text,true,,663,115,92,92,http://saucedemo.com/,132,0,66
+1757868750055,190,HTTP Request (GET)-1,200,OK,Swag Labs 1-66,text,true,,3322,119,92,92,https://www.saucedemo.com/,190,0,127
+1757868749657,597,HTTP Request (GET),200,OK,Swag Labs 1-39,text,true,,3985,234,93,93,https://www.saucedemo.com/,407,0,65
+1757868749657,407,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-39,text,true,,663,115,93,93,http://saucedemo.com/,407,0,65
+1757868750065,189,HTTP Request (GET)-1,200,OK,Swag Labs 1-39,text,true,,3322,119,93,93,https://www.saucedemo.com/,189,0,128
+1757868749942,334,HTTP Request (GET),200,OK,Swag Labs 1-68,text,true,,3985,234,94,94,https://www.saucedemo.com/,125,0,63
+1757868749942,125,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-68,text,true,,663,115,94,94,http://saucedemo.com/,125,0,63
+1757868750067,209,HTTP Request (GET)-1,200,OK,Swag Labs 1-68,text,true,,3322,119,94,94,https://www.saucedemo.com/,208,0,141
+1757868749399,879,HTTP Request (GET),200,OK,Swag Labs 1-13,text,true,,3985,234,94,94,https://www.saucedemo.com/,164,0,65
+1757868749399,164,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-13,text,true,,663,115,94,94,http://saucedemo.com/,164,0,65
+1757868749563,715,HTTP Request (GET)-1,200,OK,Swag Labs 1-13,text,true,,3322,119,94,94,https://www.saucedemo.com/,715,0,165
+1757868749646,647,HTTP Request (GET),200,OK,Swag Labs 1-38,text,true,,3985,234,94,94,https://www.saucedemo.com/,124,0,62
+1757868749646,124,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-38,text,true,,663,115,94,94,http://saucedemo.com/,124,0,62
+1757868749770,523,HTTP Request (GET)-1,200,OK,Swag Labs 1-38,text,true,,3322,119,94,94,https://www.saucedemo.com/,523,0,207
+1757868749509,792,HTTP Request (GET),200,OK,Swag Labs 1-24,text,true,,3985,234,94,94,https://www.saucedemo.com/,136,0,67
+1757868749509,136,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-24,text,true,,663,115,94,94,http://saucedemo.com/,136,0,67
+1757868749646,655,HTTP Request (GET)-1,200,OK,Swag Labs 1-24,text,true,,3322,119,94,94,https://www.saucedemo.com/,655,0,128
+1757868750000,310,HTTP Request (GET),200,OK,Swag Labs 1-74,text,true,,3985,234,94,94,https://www.saucedemo.com/,120,0,61
+1757868750000,120,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-74,text,true,,663,115,94,94,http://saucedemo.com/,120,0,61
+1757868750121,189,HTTP Request (GET)-1,200,OK,Swag Labs 1-74,text,true,,3322,119,94,94,https://www.saucedemo.com/,189,0,126
+1757868749980,334,HTTP Request (GET),200,OK,Swag Labs 1-73,text,true,,3985,234,94,94,https://www.saucedemo.com/,124,0,62
+1757868749980,124,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-73,text,true,,663,115,94,94,http://saucedemo.com/,124,0,62
+1757868750104,210,HTTP Request (GET)-1,200,OK,Swag Labs 1-73,text,true,,3322,119,94,94,https://www.saucedemo.com/,210,0,142
+1757868750201,124,HTTP Request (GET),200,OK,Swag Labs 1-60,text,true,,3985,234,94,94,https://www.saucedemo.com/,62,0,0
+1757868750201,62,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-60,text,true,,663,115,94,94,http://saucedemo.com/,62,0,0
+1757868750263,62,HTTP Request (GET)-1,200,OK,Swag Labs 1-60,text,true,,3322,119,94,94,https://www.saucedemo.com/,62,0,0
+1757868749459,869,HTTP Request (GET),200,OK,Swag Labs 1-19,text,true,,3985,234,93,93,https://www.saucedemo.com/,172,0,97
+1757868749459,172,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-19,text,true,,663,115,93,93,http://saucedemo.com/,172,0,97
+1757868749632,696,HTTP Request (GET)-1,200,OK,Swag Labs 1-19,text,true,,3322,119,93,93,https://www.saucedemo.com/,696,0,138
+1757868750202,130,HTTP Request (GET),200,OK,Swag Labs 1-56,text,true,,3985,234,93,93,https://www.saucedemo.com/,67,0,0
+1757868750202,67,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-56,text,true,,663,115,93,93,http://saucedemo.com/,67,0,0
+1757868750269,63,HTTP Request (GET)-1,200,OK,Swag Labs 1-56,text,true,,3322,119,93,93,https://www.saucedemo.com/,63,0,0
+1757868750201,132,HTTP Request (GET),200,OK,Swag Labs 1-57,text,true,,3985,234,92,92,https://www.saucedemo.com/,66,0,0
+1757868750201,66,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-57,text,true,,663,115,92,92,http://saucedemo.com/,66,0,0
+1757868750267,66,HTTP Request (GET)-1,200,OK,Swag Labs 1-57,text,true,,3322,119,92,92,https://www.saucedemo.com/,66,0,0
+1757868750202,134,HTTP Request (GET),200,OK,Swag Labs 1-53,text,true,,3985,234,91,91,https://www.saucedemo.com/,67,0,0
+1757868750202,67,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-53,text,true,,663,115,91,91,http://saucedemo.com/,67,0,0
+1757868750269,67,HTTP Request (GET)-1,200,OK,Swag Labs 1-53,text,true,,3322,119,91,91,https://www.saucedemo.com/,67,0,0
+1757868750236,129,HTTP Request (GET),200,OK,Swag Labs 1-62,text,true,,3985,234,90,90,https://www.saucedemo.com/,61,0,0
+1757868750236,61,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-62,text,true,,663,115,90,90,http://saucedemo.com/,61,0,0
+1757868750297,68,HTTP Request (GET)-1,200,OK,Swag Labs 1-62,text,true,,3322,119,90,90,https://www.saucedemo.com/,67,0,0
+1757868749529,840,HTTP Request (GET),200,OK,Swag Labs 1-26,text,true,,3985,234,89,89,https://www.saucedemo.com/,140,0,72
+1757868749529,140,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-26,text,true,,663,115,89,89,http://saucedemo.com/,140,0,72
+1757868749670,699,HTTP Request (GET)-1,200,OK,Swag Labs 1-26,text,true,,3322,119,89,89,https://www.saucedemo.com/,699,0,143
+1757868750245,127,HTTP Request (GET),200,OK,Swag Labs 1-66,text,true,,3985,234,89,89,https://www.saucedemo.com/,66,0,0
+1757868750245,66,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-66,text,true,,663,115,89,89,http://saucedemo.com/,66,0,0
+1757868750311,61,HTTP Request (GET)-1,200,OK,Swag Labs 1-66,text,true,,3322,119,89,89,https://www.saucedemo.com/,61,0,0
+1757868750020,354,HTTP Request (GET),200,OK,Swag Labs 1-77,text,true,,3985,234,88,88,https://www.saucedemo.com/,138,0,67
+1757868750020,138,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-77,text,true,,663,115,88,88,http://saucedemo.com/,138,0,67
+1757868750158,216,HTTP Request (GET)-1,200,OK,Swag Labs 1-77,text,true,,3322,119,88,88,https://www.saucedemo.com/,216,0,143
+1757868750254,138,HTTP Request (GET),200,OK,Swag Labs 1-39,text,true,,3985,234,88,88,https://www.saucedemo.com/,74,0,0
+1757868750254,74,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-39,text,true,,663,115,88,88,http://saucedemo.com/,74,0,0
+1757868750328,64,HTTP Request (GET)-1,200,OK,Swag Labs 1-39,text,true,,3322,119,88,88,https://www.saucedemo.com/,64,0,0
+1757868749942,453,HTTP Request (GET),200,OK,Swag Labs 1-69,text,true,,3985,234,87,87,https://www.saucedemo.com/,124,0,63
+1757868749942,124,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-69,text,true,,663,115,87,87,http://saucedemo.com/,124,0,63
+1757868750066,329,HTTP Request (GET)-1,200,OK,Swag Labs 1-69,text,true,,3322,119,87,87,https://www.saucedemo.com/,329,0,262
+1757868750276,134,HTTP Request (GET),200,OK,Swag Labs 1-68,text,true,,3985,234,87,87,https://www.saucedemo.com/,61,0,0
+1757868750276,61,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-68,text,true,,663,115,87,87,http://saucedemo.com/,61,0,0
+1757868750337,73,HTTP Request (GET)-1,200,OK,Swag Labs 1-68,text,true,,3322,119,87,87,https://www.saucedemo.com/,73,0,0
+1757868749836,578,HTTP Request (GET),200,OK,Swag Labs 1-22,text,true,,3985,234,86,86,https://www.saucedemo.com/,505,0,0
+1757868749836,505,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-22,text,true,,663,115,86,86,http://saucedemo.com/,505,0,0
+1757868750341,73,HTTP Request (GET)-1,200,OK,Swag Labs 1-22,text,true,,3322,119,86,86,https://www.saucedemo.com/,73,0,0
+1757868749549,870,HTTP Request (GET),200,OK,Swag Labs 1-28,text,true,,3985,234,85,85,https://www.saucedemo.com/,145,0,78
+1757868749549,145,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-28,text,true,,663,115,85,85,http://saucedemo.com/,145,0,78
+1757868749695,724,HTTP Request (GET)-1,200,OK,Swag Labs 1-28,text,true,,3322,119,85,85,https://www.saucedemo.com/,724,0,133
+1757868750310,124,HTTP Request (GET),200,OK,Swag Labs 1-74,text,true,,3985,234,85,85,https://www.saucedemo.com/,60,0,0
+1757868750310,60,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-74,text,true,,663,115,85,85,http://saucedemo.com/,60,0,0
+1757868750370,64,HTTP Request (GET)-1,200,OK,Swag Labs 1-74,text,true,,3322,119,85,85,https://www.saucedemo.com/,64,0,0
+1757868750229,218,HTTP Request (GET),200,OK,Swag Labs 1-7,text,true,,3985,234,84,84,https://www.saucedemo.com/,68,0,0
+1757868750229,68,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-7,text,true,,663,115,84,84,http://saucedemo.com/,68,0,0
+1757868750297,150,HTTP Request (GET)-1,200,OK,Swag Labs 1-7,text,true,,3322,119,84,84,https://www.saucedemo.com/,93,0,0
+1757868750301,155,HTTP Request (GET),200,OK,Swag Labs 1-24,text,true,,3985,234,83,83,https://www.saucedemo.com/,75,0,0
+1757868750301,75,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-24,text,true,,663,115,83,83,http://saucedemo.com/,75,0,0
+1757868750376,80,HTTP Request (GET)-1,200,OK,Swag Labs 1-24,text,true,,3322,119,83,83,https://www.saucedemo.com/,70,0,0
+1757868749804,660,HTTP Request (GET),200,OK,Swag Labs 1-54,text,true,,3985,234,82,82,https://www.saucedemo.com/,136,0,69
+1757868749804,136,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-54,text,true,,663,115,82,82,http://saucedemo.com/,136,0,69
+1757868749940,524,HTTP Request (GET)-1,200,OK,Swag Labs 1-54,text,true,,3322,119,82,82,https://www.saucedemo.com/,524,0,461
+1757868750226,244,HTTP Request (GET),200,OK,Swag Labs 1-61,text,true,,3985,234,82,82,https://www.saucedemo.com/,92,0,0
+1757868749599,871,HTTP Request (GET),200,OK,Swag Labs 1-33,text,true,,3985,234,82,82,https://www.saucedemo.com/,148,0,81
+1757868749599,148,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-33,text,true,,663,115,82,82,http://saucedemo.com/,148,0,81
+1757868750226,92,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-61,text,true,,663,115,82,82,http://saucedemo.com/,92,0,0
+1757868750318,152,HTTP Request (GET)-1,200,OK,Swag Labs 1-61,text,true,,3322,119,82,82,https://www.saucedemo.com/,152,0,0
+1757868749747,723,HTTP Request (GET)-1,200,OK,Swag Labs 1-33,text,true,,3322,119,82,82,https://www.saucedemo.com/,659,0,596
+1757868750328,150,HTTP Request (GET),200,OK,Swag Labs 1-19,text,true,,3985,234,81,81,https://www.saucedemo.com/,69,0,0
+1757868750328,69,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-19,text,true,,663,115,81,81,http://saucedemo.com/,69,0,0
+1757868750397,81,HTTP Request (GET)-1,200,OK,Swag Labs 1-19,text,true,,3322,119,81,81,https://www.saucedemo.com/,69,0,0
+1757868750153,337,HTTP Request (GET),200,OK,Swag Labs 1-90,text,true,,3985,234,80,80,https://www.saucedemo.com/,126,0,66
+1757868750153,126,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-90,text,true,,663,115,80,80,http://saucedemo.com/,126,0,66
+1757868750279,211,HTTP Request (GET)-1,200,OK,Swag Labs 1-90,text,true,,3322,119,80,80,https://www.saucedemo.com/,211,0,139
+1757868750164,331,HTTP Request (GET),200,OK,Swag Labs 1-91,text,true,,3985,234,80,80,https://www.saucedemo.com/,121,0,61
+1757868750164,121,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-91,text,true,,663,115,80,80,http://saucedemo.com/,121,0,61
+1757868750285,210,HTTP Request (GET)-1,200,OK,Swag Labs 1-91,text,true,,3322,119,80,80,https://www.saucedemo.com/,210,0,143
+1757868750293,205,HTTP Request (GET),200,OK,Swag Labs 1-38,text,true,,3985,234,80,80,https://www.saucedemo.com/,61,0,0
+1757868750293,61,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-38,text,true,,663,115,80,80,http://saucedemo.com/,61,0,0
+1757868750354,144,HTTP Request (GET)-1,200,OK,Swag Labs 1-38,text,true,,3322,119,80,80,https://www.saucedemo.com/,144,0,0
+1757868750375,136,HTTP Request (GET),200,OK,Swag Labs 1-77,text,true,,3985,234,79,79,https://www.saucedemo.com/,68,0,0
+1757868750375,68,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-77,text,true,,663,115,79,79,http://saucedemo.com/,68,0,0
+1757868750443,68,HTTP Request (GET)-1,200,OK,Swag Labs 1-77,text,true,,3322,119,79,79,https://www.saucedemo.com/,68,0,0
+1757868750395,126,HTTP Request (GET),200,OK,Swag Labs 1-69,text,true,,3985,234,78,78,https://www.saucedemo.com/,61,0,0
+1757868750395,61,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-69,text,true,,663,115,78,78,http://saucedemo.com/,61,0,0
+1757868750456,65,HTTP Request (GET)-1,200,OK,Swag Labs 1-69,text,true,,3322,119,78,78,https://www.saucedemo.com/,62,0,0
+1757868750194,344,HTTP Request (GET),200,OK,Swag Labs 1-94,text,true,,3985,234,77,77,https://www.saucedemo.com/,132,0,69
+1757868750194,132,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-94,text,true,,663,115,77,77,http://saucedemo.com/,132,0,69
+1757868750327,211,HTTP Request (GET)-1,200,OK,Swag Labs 1-94,text,true,,3322,119,77,77,https://www.saucedemo.com/,210,0,138
+1757868750227,319,HTTP Request (GET),200,OK,Swag Labs 1-97,text,true,,3987,234,77,77,https://www.saucedemo.com/,127,0,66
+1757868750227,127,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-97,text,true,,663,115,77,77,http://saucedemo.com/,127,0,66
+1757868750354,192,HTTP Request (GET)-1,200,OK,Swag Labs 1-97,text,true,,3324,119,77,77,https://www.saucedemo.com/,192,0,129
+1757868750215,333,HTTP Request (GET),200,OK,Swag Labs 1-96,text,true,,3985,234,77,77,https://www.saucedemo.com/,131,0,64
+1757868750215,131,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-96,text,true,,663,115,77,77,http://saucedemo.com/,131,0,64
+1757868750346,202,HTTP Request (GET)-1,200,OK,Swag Labs 1-96,text,true,,3322,119,77,77,https://www.saucedemo.com/,202,0,137
+1757868750419,130,HTTP Request (GET),200,OK,Swag Labs 1-28,text,true,,3985,234,77,77,https://www.saucedemo.com/,66,0,0
+1757868750419,66,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-28,text,true,,663,115,77,77,http://saucedemo.com/,66,0,0
+1757868750485,64,HTTP Request (GET)-1,200,OK,Swag Labs 1-28,text,true,,3322,119,77,77,https://www.saucedemo.com/,64,0,0
+1757868749666,901,HTTP Request (GET),200,OK,Swag Labs 1-40,text,true,,3985,234,76,76,https://www.saucedemo.com/,147,0,78
+1757868749666,147,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-40,text,true,,663,115,76,76,http://saucedemo.com/,147,0,78
+1757868749813,754,HTTP Request (GET)-1,200,OK,Swag Labs 1-40,text,true,,3322,119,76,76,https://www.saucedemo.com/,690,0,628
+1757868750098,471,HTTP Request (GET),200,OK,Swag Labs 1-51,text,true,,3985,234,76,76,https://www.saucedemo.com/,65,0,0
+1757868750098,65,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-51,text,true,,663,115,76,76,http://saucedemo.com/,65,0,0
+1757868750163,406,HTTP Request (GET)-1,200,OK,Swag Labs 1-51,text,true,,3322,119,76,76,https://www.saucedemo.com/,65,0,0
+1757868750369,207,HTTP Request (GET),200,OK,Swag Labs 1-26,text,true,,3985,234,75,75,https://www.saucedemo.com/,62,0,0
+1757868750369,62,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-26,text,true,,663,115,75,75,http://saucedemo.com/,62,0,0
+1757868750431,145,HTTP Request (GET)-1,200,OK,Swag Labs 1-26,text,true,,3322,119,75,75,https://www.saucedemo.com/,145,0,0
+1757868750249,337,HTTP Request (GET),200,OK,Swag Labs 1-99,text,true,,3985,234,74,74,https://www.saucedemo.com/,121,0,60
+1757868750249,121,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-99,text,true,,663,115,74,74,http://saucedemo.com/,121,0,60
+1757868750371,215,HTTP Request (GET)-1,200,OK,Swag Labs 1-99,text,true,,3322,119,74,74,https://www.saucedemo.com/,215,0,145
+1757868750464,138,HTTP Request (GET),200,OK,Swag Labs 1-54,text,true,,3985,234,74,74,https://www.saucedemo.com/,73,0,0
+1757868750464,73,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-54,text,true,,663,115,74,74,http://saucedemo.com/,73,0,0
+1757868750537,65,HTTP Request (GET)-1,200,OK,Swag Labs 1-54,text,true,,3322,119,74,74,https://www.saucedemo.com/,65,0,0
+1757868750051,551,HTTP Request (GET),200,OK,Swag Labs 1-79,text,true,,3985,234,74,74,https://www.saucedemo.com/,135,0,68
+1757868750051,135,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-79,text,true,,663,115,74,74,http://saucedemo.com/,135,0,68
+1757868750187,415,HTTP Request (GET)-1,200,OK,Swag Labs 1-79,text,true,,3322,119,74,74,https://www.saucedemo.com/,415,0,274
+1757868749934,672,HTTP Request (GET),200,OK,Swag Labs 1-6,text,true,,3985,234,73,73,https://www.saucedemo.com/,60,0,0
+1757868749934,60,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-6,text,true,,663,115,73,73,http://saucedemo.com/,60,0,0
+1757868749994,612,HTTP Request (GET)-1,200,OK,Swag Labs 1-6,text,true,,3322,119,73,73,https://www.saucedemo.com/,603,0,0
+1757868750257,350,HTTP Request (GET),200,OK,Swag Labs 1-100,text,true,,3985,234,73,73,https://www.saucedemo.com/,135,0,69
+1757868750257,135,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-100,text,true,,663,115,73,73,http://saucedemo.com/,135,0,69
+1757868750393,214,HTTP Request (GET)-1,200,OK,Swag Labs 1-100,text,true,,3322,119,73,73,https://www.saucedemo.com/,214,0,147
+1757868750496,133,HTTP Request (GET),200,OK,Swag Labs 1-91,text,true,,3985,234,72,72,https://www.saucedemo.com/,59,0,0
+1757868750496,59,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-91,text,true,,663,115,72,72,http://saucedemo.com/,59,0,0
+1757868750556,73,HTTP Request (GET)-1,200,OK,Swag Labs 1-91,text,true,,3322,119,72,72,https://www.saucedemo.com/,73,0,0
+1757868750010,675,HTTP Request (GET),200,OK,Swag Labs 1-75,text,true,,3985,234,71,71,https://www.saucedemo.com/,136,0,74
+1757868750010,136,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-75,text,true,,663,115,71,71,http://saucedemo.com/,136,0,74
+1757868750147,538,HTTP Request (GET)-1,200,OK,Swag Labs 1-75,text,true,,3322,119,71,71,https://www.saucedemo.com/,538,0,136
+1757868750026,654,HTTP Request (GET),200,OK,Swag Labs 1-44,text,true,,3985,234,71,71,https://www.saucedemo.com/,63,0,0
+1757868750026,63,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-44,text,true,,663,115,71,71,http://saucedemo.com/,63,0,0
+1757868750089,591,HTTP Request (GET)-1,200,OK,Swag Labs 1-44,text,true,,3322,119,71,71,https://www.saucedemo.com/,591,0,0
+1757868749307,1365,HTTP Request (GET),200,OK,Swag Labs 1-4,text,true,,3985,234,71,71,https://www.saucedemo.com/,1136,0,1068
+1757868749307,1136,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-4,text,true,,663,115,71,71,http://saucedemo.com/,1136,0,1068
+1757868750444,228,HTTP Request (GET)-1,200,OK,Swag Labs 1-4,text,true,,3322,119,71,71,https://www.saucedemo.com/,228,0,139
+1757868750538,134,HTTP Request (GET),200,OK,Swag Labs 1-94,text,true,,3985,234,71,71,https://www.saucedemo.com/,64,0,0
+1757868750538,64,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-94,text,true,,663,115,71,71,http://saucedemo.com/,64,0,0
+1757868750602,70,HTTP Request (GET)-1,200,OK,Swag Labs 1-94,text,true,,3322,119,71,71,https://www.saucedemo.com/,70,0,0
+1757868749275,1375,HTTP Request (GET),200,OK,Swag Labs 1-1,text,true,,3985,234,71,71,https://www.saucedemo.com/,147,0,80
+1757868749275,147,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-1,text,true,,663,115,71,71,http://saucedemo.com/,147,0,80
+1757868749423,1227,HTTP Request (GET)-1,200,OK,Swag Labs 1-1,text,true,,3322,119,71,71,https://www.saucedemo.com/,1227,0,1155
+1757868749297,1347,HTTP Request (GET),200,OK,Swag Labs 1-3,text,true,,3985,234,71,71,https://www.saucedemo.com/,145,0,78
+1757868749297,145,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-3,text,true,,663,115,71,71,http://saucedemo.com/,145,0,78
+1757868749442,1202,HTTP Request (GET)-1,200,OK,Swag Labs 1-3,text,true,,3322,119,71,71,https://www.saucedemo.com/,1202,0,1139
+1757868750143,549,HTTP Request (GET),200,OK,Swag Labs 1-89,text,true,,3987,234,69,69,https://www.saucedemo.com/,186,0,69
+1757868750143,186,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-89,text,true,,663,115,69,69,http://saucedemo.com/,186,0,69
+1757868750329,363,HTTP Request (GET)-1,200,OK,Swag Labs 1-89,text,true,,3324,119,69,69,https://www.saucedemo.com/,363,0,294
+1757868749370,1334,HTTP Request (GET),200,OK,Swag Labs 1-10,text,true,,3985,234,69,69,https://www.saucedemo.com/,1122,0,1061
+1757868749370,1122,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-10,text,true,,663,115,69,69,http://saucedemo.com/,1122,0,1061
+1757868750492,212,HTTP Request (GET)-1,200,OK,Swag Labs 1-10,text,true,,3322,119,69,69,https://www.saucedemo.com/,212,0,143
+1757868750586,138,HTTP Request (GET),200,OK,Swag Labs 1-99,text,true,,3985,234,69,69,https://www.saucedemo.com/,65,0,0
+1757868750586,65,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-99,text,true,,663,115,69,69,http://saucedemo.com/,65,0,0
+1757868750651,73,HTTP Request (GET)-1,200,OK,Swag Labs 1-99,text,true,,3322,119,69,69,https://www.saucedemo.com/,73,0,0
+1757868750130,594,HTTP Request (GET),200,OK,Swag Labs 1-87,text,true,,3985,234,69,69,https://www.saucedemo.com/,395,0,61
+1757868750130,395,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-87,text,true,,663,115,69,69,http://saucedemo.com/,395,0,61
+1757868750525,199,HTTP Request (GET)-1,200,OK,Swag Labs 1-87,text,true,,3322,119,69,69,https://www.saucedemo.com/,199,0,138
+1757868749999,728,HTTP Request (GET),200,OK,Swag Labs 1-42,text,true,,3985,234,68,68,https://www.saucedemo.com/,139,0,0
+1757868749999,139,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-42,text,true,,663,115,68,68,http://saucedemo.com/,139,0,0
+1757868750138,589,HTTP Request (GET)-1,200,OK,Swag Labs 1-42,text,true,,3322,119,68,68,https://www.saucedemo.com/,585,0,0
+1757868750070,664,HTTP Request (GET),200,OK,Swag Labs 1-81,text,true,,3985,234,67,67,https://www.saucedemo.com/,132,0,67
+1757868750070,132,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-81,text,true,,663,115,67,67,http://saucedemo.com/,132,0,67
+1757868750202,532,HTTP Request (GET)-1,200,OK,Swag Labs 1-81,text,true,,3322,119,67,67,https://www.saucedemo.com/,532,0,471
+1757868749922,832,HTTP Request (GET),200,OK,Swag Labs 1-67,text,true,,3985,234,67,67,https://www.saucedemo.com/,121,0,61
+1757868749922,121,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-67,text,true,,663,115,67,67,http://saucedemo.com/,121,0,61
+1757868750043,711,HTTP Request (GET)-1,200,OK,Swag Labs 1-67,text,true,,3322,119,67,67,https://www.saucedemo.com/,711,0,638
+1757868749844,915,HTTP Request (GET),200,OK,Swag Labs 1-58,text,true,,3985,234,67,67,https://www.saucedemo.com/,130,0,66
+1757868749844,130,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-58,text,true,,663,115,67,67,http://saucedemo.com/,130,0,66
+1757868749975,784,HTTP Request (GET)-1,200,OK,Swag Labs 1-58,text,true,,3322,119,67,67,https://www.saucedemo.com/,784,0,226
+1757868750567,214,HTTP Request (GET),200,OK,Swag Labs 1-40,text,true,,3985,234,67,67,https://www.saucedemo.com/,150,0,0
+1757868750567,150,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-40,text,true,,663,115,67,67,http://saucedemo.com/,150,0,0
+1757868750717,64,HTTP Request (GET)-1,200,OK,Swag Labs 1-40,text,true,,3322,119,67,67,https://www.saucedemo.com/,64,0,0
+1757868750278,503,HTTP Request (GET),200,OK,Swag Labs 1-13,text,true,,3985,234,67,67,https://www.saucedemo.com/,346,0,0
+1757868750278,346,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-13,text,true,,663,115,67,67,http://saucedemo.com/,346,0,0
+1757868750624,157,HTTP Request (GET)-1,200,OK,Swag Labs 1-13,text,true,,3322,119,67,67,https://www.saucedemo.com/,157,0,0
+1757868749409,1382,HTTP Request (GET),200,OK,Swag Labs 1-14,text,true,,3985,234,65,65,https://www.saucedemo.com/,154,0,62
+1757868749409,154,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-14,text,true,,663,115,65,65,http://saucedemo.com/,154,0,62
+1757868749563,1228,HTTP Request (GET)-1,200,OK,Swag Labs 1-14,text,true,,3322,119,65,65,https://www.saucedemo.com/,1227,0,1155
+1757868749421,1379,HTTP Request (GET),200,OK,Swag Labs 1-15,text,true,,3985,234,65,65,https://www.saucedemo.com/,143,0,67
+1757868749421,143,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-15,text,true,,663,115,65,65,http://saucedemo.com/,143,0,67
+1757868749564,1236,HTTP Request (GET)-1,200,OK,Swag Labs 1-15,text,true,,3322,119,65,65,https://www.saucedemo.com/,1236,0,1154
+1757868750040,761,HTTP Request (GET),200,OK,Swag Labs 1-78,text,true,,3985,234,65,65,https://www.saucedemo.com/,122,0,62
+1757868750040,122,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-78,text,true,,663,115,65,65,http://saucedemo.com/,122,0,62
+1757868750163,638,HTTP Request (GET)-1,200,OK,Swag Labs 1-78,text,true,,3322,119,65,65,https://www.saucedemo.com/,638,0,566
+1757868750602,213,HTTP Request (GET),200,OK,Swag Labs 1-79,text,true,,3985,234,65,65,https://www.saucedemo.com/,78,0,0
+1757868750602,78,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-79,text,true,,663,115,65,65,http://saucedemo.com/,78,0,0
+1757868750680,135,HTTP Request (GET)-1,200,OK,Swag Labs 1-79,text,true,,3322,119,65,65,https://www.saucedemo.com/,135,0,0
+1757868750222,599,HTTP Request (GET),200,OK,Swag Labs 1-64,text,true,,3985,234,64,64,https://www.saucedemo.com/,62,0,0
+1757868750222,62,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-64,text,true,,663,115,64,64,http://saucedemo.com/,62,0,0
+1757868750284,537,HTTP Request (GET)-1,200,OK,Swag Labs 1-64,text,true,,3322,119,64,64,https://www.saucedemo.com/,537,0,0
+1757868750114,707,HTTP Request (GET),200,OK,Swag Labs 1-86,text,true,,3985,234,64,64,https://www.saucedemo.com/,498,0,67
+1757868750114,498,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-86,text,true,,663,115,64,64,http://saucedemo.com/,498,0,67
+1757868750612,209,HTTP Request (GET)-1,200,OK,Swag Labs 1-86,text,true,,3322,119,64,64,https://www.saucedemo.com/,209,0,142
+1757868750691,137,HTTP Request (GET),200,OK,Swag Labs 1-1,text,true,,3985,234,63,63,https://www.saucedemo.com/,68,0,0
+1757868750691,68,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-1,text,true,,663,115,63,63,http://saucedemo.com/,68,0,0
+1757868750760,68,HTTP Request (GET)-1,200,OK,Swag Labs 1-1,text,true,,3322,119,63,63,https://www.saucedemo.com/,68,0,0
+1757868750204,624,HTTP Request (GET),200,OK,Swag Labs 1-95,text,true,,3985,234,63,63,https://www.saucedemo.com/,122,0,61
+1757868750204,122,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-95,text,true,,663,115,63,63,http://saucedemo.com/,122,0,61
+1757868750327,501,HTTP Request (GET)-1,200,OK,Swag Labs 1-95,text,true,,3322,119,63,63,https://www.saucedemo.com/,501,0,433
+1757868750692,138,HTTP Request (GET),200,OK,Swag Labs 1-89,text,true,,3987,234,62,62,https://www.saucedemo.com/,66,0,0
+1757868750692,66,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-89,text,true,,663,115,62,62,http://saucedemo.com/,66,0,0
+1757868750758,72,HTTP Request (GET)-1,200,OK,Swag Labs 1-89,text,true,,3324,119,62,62,https://www.saucedemo.com/,69,0,0
+1757868750704,127,HTTP Request (GET),200,OK,Swag Labs 1-10,text,true,,3985,234,61,61,https://www.saucedemo.com/,60,0,0
+1757868750704,60,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-10,text,true,,663,115,61,61,http://saucedemo.com/,60,0,0
+1757868750764,67,HTTP Request (GET)-1,200,OK,Swag Labs 1-10,text,true,,3322,119,61,61,https://www.saucedemo.com/,67,0,0
+1757868749359,1474,HTTP Request (GET),200,OK,Swag Labs 1-9,text,true,,3985,234,60,60,https://www.saucedemo.com/,1126,0,67
+1757868749359,1126,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-9,text,true,,663,115,60,60,http://saucedemo.com/,1126,0,67
+1757868750485,348,HTTP Request (GET)-1,200,OK,Swag Labs 1-9,text,true,,3322,119,60,60,https://www.saucedemo.com/,348,0,138
+1757868749468,1367,HTTP Request (GET),200,OK,Swag Labs 1-20,text,true,,3985,234,60,60,https://www.saucedemo.com/,164,0,95
+1757868749468,164,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-20,text,true,,663,115,60,60,http://saucedemo.com/,164,0,95
+1757868749633,1202,HTTP Request (GET)-1,200,OK,Swag Labs 1-20,text,true,,3322,119,60,60,https://www.saucedemo.com/,1202,0,1139
+1757868749518,1328,HTTP Request (GET),200,OK,Swag Labs 1-25,text,true,,3985,234,60,60,https://www.saucedemo.com/,126,0,65
+1757868749518,126,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-25,text,true,,663,115,60,60,http://saucedemo.com/,126,0,65
+1757868749645,1201,HTTP Request (GET)-1,200,OK,Swag Labs 1-25,text,true,,3322,119,60,60,https://www.saucedemo.com/,1201,0,1139
+1757868750174,686,HTTP Request (GET),200,OK,Swag Labs 1-92,text,true,,3985,234,60,60,https://www.saucedemo.com/,221,0,69
+1757868750174,221,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-92,text,true,,663,115,60,60,http://saucedemo.com/,221,0,69
+1757868750395,465,HTTP Request (GET)-1,200,OK,Swag Labs 1-92,text,true,,3322,119,60,60,https://www.saucedemo.com/,465,0,132
+1757868750734,139,HTTP Request (GET),200,OK,Swag Labs 1-81,text,true,,3985,234,60,60,https://www.saucedemo.com/,73,0,0
+1757868750734,73,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-81,text,true,,663,115,60,60,http://saucedemo.com/,73,0,0
+1757868750807,66,HTTP Request (GET)-1,200,OK,Swag Labs 1-81,text,true,,3322,119,60,60,https://www.saucedemo.com/,65,0,0
+1757868750090,783,HTTP Request (GET),200,OK,Swag Labs 1-83,text,true,,3985,234,60,60,https://www.saucedemo.com/,132,0,63
+1757868750090,132,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-83,text,true,,663,115,60,60,http://saucedemo.com/,132,0,63
+1757868750222,651,HTTP Request (GET)-1,200,OK,Swag Labs 1-83,text,true,,3322,119,60,60,https://www.saucedemo.com/,651,0,587
+1757868750490,394,HTTP Request (GET),200,OK,Swag Labs 1-90,text,true,,3985,234,59,59,https://www.saucedemo.com/,326,0,0
+1757868750490,326,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-90,text,true,,663,115,59,59,http://saucedemo.com/,326,0,0
+1757868750817,67,HTTP Request (GET)-1,200,OK,Swag Labs 1-90,text,true,,3322,119,59,59,https://www.saucedemo.com/,67,0,0
+1757868750470,421,HTTP Request (GET),200,OK,Swag Labs 1-33,text,true,,3985,234,58,58,https://www.saucedemo.com/,344,0,0
+1757868750470,344,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-33,text,true,,663,115,58,58,http://saucedemo.com/,344,0,0
+1757868750814,77,HTTP Request (GET)-1,200,OK,Swag Labs 1-33,text,true,,3322,119,58,58,https://www.saucedemo.com/,62,0,0
+1757868749567,1334,HTTP Request (GET),200,OK,Swag Labs 1-30,text,true,,3985,234,57,57,https://www.saucedemo.com/,129,0,63
+1757868749567,129,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-30,text,true,,663,115,57,57,http://saucedemo.com/,129,0,63
+1757868749696,1205,HTTP Request (GET)-1,200,OK,Swag Labs 1-30,text,true,,3322,119,57,57,https://www.saucedemo.com/,1205,0,1139
+1757868749558,1348,HTTP Request (GET),200,OK,Swag Labs 1-29,text,true,,3985,234,57,57,https://www.saucedemo.com/,1132,0,1065
+1757868749558,1132,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-29,text,true,,663,115,57,57,http://saucedemo.com/,1132,0,1065
+1757868750690,216,HTTP Request (GET)-1,200,OK,Swag Labs 1-29,text,true,,3322,119,57,57,https://www.saucedemo.com/,216,0,142
+1757868749577,1351,HTTP Request (GET),200,OK,Swag Labs 1-31,text,true,,3985,234,57,57,https://www.saucedemo.com/,129,0,67
+1757868749577,129,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-31,text,true,,663,115,57,57,http://saucedemo.com/,129,0,67
+1757868749707,1221,HTTP Request (GET)-1,200,OK,Swag Labs 1-31,text,true,,3322,119,57,57,https://www.saucedemo.com/,1221,0,1149
+1757868749963,974,HTTP Request (GET),200,OK,Swag Labs 1-35,text,true,,3985,234,57,57,https://www.saucedemo.com/,338,0,0
+1757868749963,338,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-35,text,true,,663,115,57,57,http://saucedemo.com/,338,0,0
+1757868750301,636,HTTP Request (GET)-1,200,OK,Swag Labs 1-35,text,true,,3322,119,57,57,https://www.saucedemo.com/,626,0,0
+1757868749322,1617,HTTP Request (GET),200,OK,Swag Labs 1-5,text,true,,3985,234,56,56,https://www.saucedemo.com/,134,0,73
+1757868749322,134,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-5,text,true,,663,115,56,56,http://saucedemo.com/,134,0,73
+1757868749456,1483,HTTP Request (GET)-1,200,OK,Swag Labs 1-5,text,true,,3322,119,56,56,https://www.saucedemo.com/,1417,0,1351
+1757868750800,141,HTTP Request (GET),200,OK,Swag Labs 1-15,text,true,,3985,234,56,56,https://www.saucedemo.com/,72,0,0
+1757868750800,72,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-15,text,true,,663,115,56,56,http://saucedemo.com/,72,0,0
+1757868750872,69,HTTP Request (GET)-1,200,OK,Swag Labs 1-15,text,true,,3322,119,56,56,https://www.saucedemo.com/,69,0,0
+1757868750314,628,HTTP Request (GET),200,OK,Swag Labs 1-73,text,true,,3985,234,56,56,https://www.saucedemo.com/,61,0,0
+1757868750314,61,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-73,text,true,,663,115,56,56,http://saucedemo.com/,61,0,0
+1757868750375,567,HTTP Request (GET)-1,200,OK,Swag Labs 1-73,text,true,,3322,119,56,56,https://www.saucedemo.com/,567,0,0
+1757868749538,1419,HTTP Request (GET),200,OK,Swag Labs 1-27,text,true,,3985,234,54,54,https://www.saucedemo.com/,142,0,77
+1757868749538,142,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-27,text,true,,663,115,54,54,http://saucedemo.com/,142,0,77
+1757868749681,1276,HTTP Request (GET)-1,200,OK,Swag Labs 1-27,text,true,,3322,119,54,54,https://www.saucedemo.com/,1276,0,1134
+1757868750828,152,HTTP Request (GET),200,OK,Swag Labs 1-95,text,true,,3985,234,54,54,https://www.saucedemo.com/,65,0,0
+1757868750828,65,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-95,text,true,,663,115,54,54,http://saucedemo.com/,65,0,0
+1757868750893,87,HTTP Request (GET)-1,200,OK,Swag Labs 1-95,text,true,,3322,119,54,54,https://www.saucedemo.com/,73,0,0
+1757868750846,150,HTTP Request (GET),200,OK,Swag Labs 1-25,text,true,,3985,234,53,53,https://www.saucedemo.com/,80,0,0
+1757868750846,80,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-25,text,true,,663,115,53,53,http://saucedemo.com/,80,0,0
+1757868750926,70,HTTP Request (GET)-1,200,OK,Swag Labs 1-25,text,true,,3322,119,53,53,https://www.saucedemo.com/,70,0,0
+1757868750874,132,HTTP Request (GET),200,OK,Swag Labs 1-83,text,true,,3985,234,52,52,https://www.saucedemo.com/,65,0,0
+1757868750874,65,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-83,text,true,,663,115,52,52,http://saucedemo.com/,65,0,0
+1757868750939,67,HTTP Request (GET)-1,200,OK,Swag Labs 1-83,text,true,,3322,119,52,52,https://www.saucedemo.com/,67,0,0
+1757868750607,404,HTTP Request (GET),200,OK,Swag Labs 1-100,text,true,,3986,234,51,51,https://www.saucedemo.com/,334,0,0
+1757868750607,334,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-100,text,true,,663,115,51,51,http://saucedemo.com/,334,0,0
+1757868750941,70,HTTP Request (GET)-1,200,OK,Swag Labs 1-100,text,true,,3323,119,51,51,https://www.saucedemo.com/,70,0,0
+1757868750902,136,HTTP Request (GET),200,OK,Swag Labs 1-30,text,true,,3985,234,50,50,https://www.saucedemo.com/,64,0,0
+1757868750902,64,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-30,text,true,,663,115,50,50,http://saucedemo.com/,64,0,0
+1757868750966,72,HTTP Request (GET)-1,200,OK,Swag Labs 1-30,text,true,,3322,119,50,50,https://www.saucedemo.com/,72,0,0
+1757868749696,1355,HTTP Request (GET),200,OK,Swag Labs 1-43,text,true,,3985,234,49,49,https://www.saucedemo.com/,127,0,64
+1757868749696,127,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-43,text,true,,663,115,49,49,http://saucedemo.com/,127,0,64
+1757868749823,1228,HTTP Request (GET)-1,200,OK,Swag Labs 1-43,text,true,,3322,119,49,49,https://www.saucedemo.com/,1228,0,1159
+1757868750907,145,HTTP Request (GET),200,OK,Swag Labs 1-29,text,true,,3985,234,49,49,https://www.saucedemo.com/,73,0,0
+1757868750907,73,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-29,text,true,,663,115,49,49,http://saucedemo.com/,73,0,0
+1757868750981,71,HTTP Request (GET)-1,200,OK,Swag Labs 1-29,text,true,,3322,119,49,49,https://www.saucedemo.com/,70,0,0
+1757868749430,1631,HTTP Request (GET),200,OK,Swag Labs 1-16,text,true,,3985,234,48,48,https://www.saucedemo.com/,425,0,75
+1757868749430,425,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-16,text,true,,663,115,48,48,http://saucedemo.com/,425,0,75
+1757868749855,1206,HTTP Request (GET)-1,200,OK,Swag Labs 1-16,text,true,,3322,119,48,48,https://www.saucedemo.com/,1206,0,1143
+1757868749390,1676,HTTP Request (GET),200,OK,Swag Labs 1-12,text,true,,3985,234,48,48,https://www.saucedemo.com/,1147,0,1072
+1757868749390,1147,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-12,text,true,,663,115,48,48,http://saucedemo.com/,1147,0,1072
+1757868750537,529,HTTP Request (GET)-1,200,OK,Swag Labs 1-12,text,true,,3322,119,48,48,https://www.saucedemo.com/,529,0,461
+1757868749716,1363,HTTP Request (GET),200,OK,Swag Labs 1-45,text,true,,3985,234,48,48,https://www.saucedemo.com/,1137,0,1071
+1757868749716,1137,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-45,text,true,,663,115,48,48,http://saucedemo.com/,1137,0,1071
+1757868750854,225,HTTP Request (GET)-1,200,OK,Swag Labs 1-45,text,true,,3322,119,48,48,https://www.saucedemo.com/,225,0,148
+1757868750939,145,HTTP Request (GET),200,OK,Swag Labs 1-5,text,true,,3985,234,48,48,https://www.saucedemo.com/,65,0,0
+1757868750939,65,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-5,text,true,,663,115,48,48,http://saucedemo.com/,65,0,0
+1757868751004,80,HTTP Request (GET)-1,200,OK,Swag Labs 1-5,text,true,,3322,119,48,48,https://www.saucedemo.com/,63,0,0
+1757868750958,132,HTTP Request (GET),200,OK,Swag Labs 1-27,text,true,,3985,234,47,47,https://www.saucedemo.com/,66,0,0
+1757868750958,66,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-27,text,true,,663,115,47,47,http://saucedemo.com/,66,0,0
+1757868751024,66,HTTP Request (GET)-1,200,OK,Swag Labs 1-27,text,true,,3322,119,47,47,https://www.saucedemo.com/,66,0,0
+1757868749449,1644,HTTP Request (GET),200,OK,Swag Labs 1-18,text,true,,3985,234,46,46,https://www.saucedemo.com/,418,0,69
+1757868749449,418,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-18,text,true,,663,115,46,46,http://saucedemo.com/,418,0,69
+1757868749868,1225,HTTP Request (GET)-1,200,OK,Swag Labs 1-18,text,true,,3322,119,46,46,https://www.saucedemo.com/,1225,0,1157
+1757868749736,1367,HTTP Request (GET),200,OK,Swag Labs 1-47,text,true,,3985,234,46,46,https://www.saucedemo.com/,1136,0,1072
+1757868749736,1136,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-47,text,true,,663,115,46,46,http://saucedemo.com/,1136,0,1072
+1757868750873,230,HTTP Request (GET)-1,200,OK,Swag Labs 1-47,text,true,,3322,119,46,46,https://www.saucedemo.com/,230,0,152
+1757868750691,419,HTTP Request (GET),200,OK,Swag Labs 1-3,text,true,,3985,234,46,46,https://www.saucedemo.com/,357,0,0
+1757868750691,357,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-3,text,true,,663,115,46,46,http://saucedemo.com/,357,0,0
+1757868751048,62,HTTP Request (GET)-1,200,OK,Swag Labs 1-3,text,true,,3322,119,46,46,https://www.saucedemo.com/,62,0,0
+1757868749765,1346,HTTP Request (GET),200,OK,Swag Labs 1-50,text,true,,3985,234,45,45,https://www.saucedemo.com/,129,0,64
+1757868749765,129,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-50,text,true,,663,115,45,45,http://saucedemo.com/,129,0,64
+1757868749895,1216,HTTP Request (GET)-1,200,OK,Swag Labs 1-50,text,true,,3322,119,45,45,https://www.saucedemo.com/,1216,0,1154
+1757868750724,398,HTTP Request (GET),200,OK,Swag Labs 1-87,text,true,,3986,234,45,45,https://www.saucedemo.com/,76,0,0
+1757868750724,76,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-87,text,true,,663,115,45,45,http://saucedemo.com/,76,0,0
+1757868750800,322,HTTP Request (GET)-1,200,OK,Swag Labs 1-87,text,true,,3323,119,45,45,https://www.saucedemo.com/,322,0,0
+1757868750546,605,HTTP Request (GET),200,OK,Swag Labs 1-97,text,true,,3987,234,44,44,https://www.saucedemo.com/,62,0,0
+1757868750546,62,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-97,text,true,,663,115,44,44,http://saucedemo.com/,62,0,0
+1757868750608,543,HTTP Request (GET)-1,200,OK,Swag Labs 1-97,text,true,,3324,119,44,44,https://www.saucedemo.com/,542,0,0
+1757868751061,132,HTTP Request (GET),200,OK,Swag Labs 1-16,text,true,,3985,234,43,43,https://www.saucedemo.com/,67,0,0
+1757868751061,67,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-16,text,true,,663,115,43,43,http://saucedemo.com/,67,0,0
+1757868751128,65,HTTP Request (GET)-1,200,OK,Swag Labs 1-16,text,true,,3322,119,43,43,https://www.saucedemo.com/,65,0,0
+1757868751066,143,HTTP Request (GET),200,OK,Swag Labs 1-12,text,true,,3985,234,42,42,https://www.saucedemo.com/,69,0,0
+1757868751066,69,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-12,text,true,,663,115,42,42,http://saucedemo.com/,69,0,0
+1757868751135,74,HTTP Request (GET)-1,200,OK,Swag Labs 1-12,text,true,,3322,119,42,42,https://www.saucedemo.com/,74,0,0
+1757868750754,476,HTTP Request (GET),200,OK,Swag Labs 1-67,text,true,,3985,234,41,41,https://www.saucedemo.com/,61,0,0
+1757868750754,61,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-67,text,true,,663,115,41,41,http://saucedemo.com/,61,0,0
+1757868750815,415,HTTP Request (GET)-1,200,OK,Swag Labs 1-67,text,true,,3322,119,41,41,https://www.saucedemo.com/,67,0,0
+1757868751094,136,HTTP Request (GET),200,OK,Swag Labs 1-18,text,true,,3985,234,41,41,https://www.saucedemo.com/,70,0,0
+1757868751094,70,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-18,text,true,,663,115,41,41,http://saucedemo.com/,70,0,0
+1757868751164,66,HTTP Request (GET)-1,200,OK,Swag Labs 1-18,text,true,,3322,119,41,41,https://www.saucedemo.com/,66,0,0
+1757868749677,1558,HTTP Request (GET),200,OK,Swag Labs 1-41,text,true,,3985,234,39,39,https://www.saucedemo.com/,131,0,67
+1757868749677,131,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-41,text,true,,663,115,39,39,http://saucedemo.com/,131,0,67
+1757868749808,1427,HTTP Request (GET)-1,200,OK,Swag Labs 1-41,text,true,,3322,119,39,39,https://www.saucedemo.com/,1317,0,139
+1757868750690,549,HTTP Request (GET),200,OK,Swag Labs 1-75,text,true,,3985,234,39,39,https://www.saucedemo.com/,64,0,0
+1757868750690,64,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-75,text,true,,663,115,39,39,http://saucedemo.com/,64,0,0
+1757868750754,485,HTTP Request (GET)-1,200,OK,Swag Labs 1-75,text,true,,3322,119,39,39,https://www.saucedemo.com/,485,0,0
+1757868750760,483,HTTP Request (GET),200,OK,Swag Labs 1-58,text,true,,3985,234,38,38,https://www.saucedemo.com/,62,0,0
+1757868750760,62,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-58,text,true,,663,115,38,38,http://saucedemo.com/,62,0,0
+1757868750822,421,HTTP Request (GET)-1,200,OK,Swag Labs 1-58,text,true,,3322,119,38,38,https://www.saucedemo.com/,79,0,0
+1757868751112,131,HTTP Request (GET),200,OK,Swag Labs 1-50,text,true,,3985,234,38,38,https://www.saucedemo.com/,71,0,0
+1757868751112,71,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-50,text,true,,663,115,38,38,http://saucedemo.com/,71,0,0
+1757868751183,60,HTTP Request (GET)-1,200,OK,Swag Labs 1-50,text,true,,3322,119,38,38,https://www.saucedemo.com/,60,0,0
+1757868750860,404,HTTP Request (GET),200,OK,Swag Labs 1-92,text,true,,3985,234,36,36,https://www.saucedemo.com/,336,0,0
+1757868750860,336,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-92,text,true,,663,115,36,36,http://saucedemo.com/,336,0,0
+1757868751196,68,HTTP Request (GET)-1,200,OK,Swag Labs 1-92,text,true,,3322,119,36,36,https://www.saucedemo.com/,67,0,0
+1757868750548,723,HTTP Request (GET),200,OK,Swag Labs 1-96,text,true,,3985,234,35,35,https://www.saucedemo.com/,81,0,0
+1757868750548,81,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-96,text,true,,663,115,35,35,http://saucedemo.com/,81,0,0
+1757868750629,642,HTTP Request (GET)-1,200,OK,Swag Labs 1-96,text,true,,3322,119,35,35,https://www.saucedemo.com/,642,0,0
+1757868750791,502,HTTP Request (GET),200,OK,Swag Labs 1-14,text,true,,3986,234,34,34,https://www.saucedemo.com/,342,0,0
+1757868750791,342,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-14,text,true,,663,115,34,34,http://saucedemo.com/,342,0,0
+1757868751133,160,HTTP Request (GET)-1,200,OK,Swag Labs 1-14,text,true,,3323,119,34,34,https://www.saucedemo.com/,160,0,0
+1757868751080,223,HTTP Request (GET),200,OK,Swag Labs 1-45,text,true,,3985,234,33,33,https://www.saucedemo.com/,65,0,0
+1757868751080,65,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-45,text,true,,663,115,33,33,http://saucedemo.com/,65,0,0
+1757868751145,158,HTTP Request (GET)-1,200,OK,Swag Labs 1-45,text,true,,3322,119,33,33,https://www.saucedemo.com/,158,0,0
+1757868750834,474,HTTP Request (GET),200,OK,Swag Labs 1-9,text,true,,3985,234,32,32,https://www.saucedemo.com/,405,0,0
+1757868750834,405,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-9,text,true,,663,115,32,32,http://saucedemo.com/,405,0,0
+1757868751239,69,HTTP Request (GET)-1,200,OK,Swag Labs 1-9,text,true,,3322,119,32,32,https://www.saucedemo.com/,65,0,0
+1757868749952,1387,HTTP Request (GET),200,OK,Swag Labs 1-70,text,true,,3985,234,31,31,https://www.saucedemo.com/,1160,0,1093
+1757868749952,1160,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-70,text,true,,663,115,31,31,http://saucedemo.com/,1160,0,1093
+1757868751113,226,HTTP Request (GET)-1,200,OK,Swag Labs 1-70,text,true,,3322,119,31,31,https://www.saucedemo.com/,226,0,152
+1757868750928,412,HTTP Request (GET),200,OK,Swag Labs 1-31,text,true,,3985,234,31,31,https://www.saucedemo.com/,343,0,0
+1757868750928,343,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-31,text,true,,663,115,31,31,http://saucedemo.com/,343,0,0
+1757868751271,69,HTTP Request (GET)-1,200,OK,Swag Labs 1-31,text,true,,3322,119,31,31,https://www.saucedemo.com/,69,0,0
+1757868750021,1345,HTTP Request (GET),200,OK,Swag Labs 1-76,text,true,,3985,234,30,30,https://www.saucedemo.com/,1130,0,1069
+1757868750021,1130,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-76,text,true,,663,115,30,30,http://saucedemo.com/,1130,0,1069
+1757868751151,215,HTTP Request (GET)-1,200,OK,Swag Labs 1-76,text,true,,3322,119,30,30,https://www.saucedemo.com/,215,0,144
+1757868750690,713,HTTP Request (GET),200,OK,Swag Labs 1-4,text,true,,3985,234,30,30,https://www.saucedemo.com/,69,0,0
+1757868750690,69,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-4,text,true,,663,115,30,30,http://saucedemo.com/,69,0,0
+1757868750759,644,HTTP Request (GET)-1,200,OK,Swag Labs 1-4,text,true,,3322,119,30,30,https://www.saucedemo.com/,644,0,0
+1757868750050,1354,HTTP Request (GET),200,OK,Swag Labs 1-80,text,true,,3985,234,29,29,https://www.saucedemo.com/,124,0,64
+1757868750050,124,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-80,text,true,,663,115,29,29,http://saucedemo.com/,124,0,64
+1757868750174,1230,HTTP Request (GET)-1,200,OK,Swag Labs 1-80,text,true,,3322,119,29,29,https://www.saucedemo.com/,1229,0,1157
+1757868750082,1348,HTTP Request (GET),200,OK,Swag Labs 1-82,text,true,,3985,234,29,29,https://www.saucedemo.com/,140,0,68
+1757868750082,140,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-82,text,true,,663,115,29,29,http://saucedemo.com/,140,0,68
+1757868750222,1208,HTTP Request (GET)-1,200,OK,Swag Labs 1-82,text,true,,3322,119,29,29,https://www.saucedemo.com/,1208,0,1145
+1757868750821,618,HTTP Request (GET),200,OK,Swag Labs 1-86,text,true,,3985,234,29,29,https://www.saucedemo.com/,62,0,0
+1757868750821,62,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-86,text,true,,663,115,29,29,http://saucedemo.com/,62,0,0
+1757868750883,556,HTTP Request (GET)-1,200,OK,Swag Labs 1-86,text,true,,3322,119,29,29,https://www.saucedemo.com/,556,0,0
+1757868750835,604,HTTP Request (GET),200,OK,Swag Labs 1-20,text,true,,3985,234,29,29,https://www.saucedemo.com/,70,0,0
+1757868750835,70,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-20,text,true,,663,115,29,29,http://saucedemo.com/,70,0,0
+1757868750906,533,HTTP Request (GET)-1,200,OK,Swag Labs 1-20,text,true,,3322,119,29,29,https://www.saucedemo.com/,533,0,0
+1757868751235,233,HTTP Request (GET),200,OK,Swag Labs 1-41,text,true,,3985,234,27,27,https://www.saucedemo.com/,66,0,0
+1757868751235,66,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-41,text,true,,663,115,27,27,http://saucedemo.com/,66,0,0
+1757868751301,167,HTTP Request (GET)-1,200,OK,Swag Labs 1-41,text,true,,3322,119,27,27,https://www.saucedemo.com/,102,0,0
+1757868751052,417,HTTP Request (GET),200,OK,Swag Labs 1-43,text,true,,3985,234,27,27,https://www.saucedemo.com/,330,0,0
+1757868751052,330,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-43,text,true,,663,115,27,27,http://saucedemo.com/,330,0,0
+1757868751382,87,HTTP Request (GET)-1,200,OK,Swag Labs 1-43,text,true,,3322,119,27,27,https://www.saucedemo.com/,87,0,0
+1757868751339,176,HTTP Request (GET),200,OK,Swag Labs 1-70,text,true,,3985,234,25,25,https://www.saucedemo.com/,74,0,0
+1757868751339,74,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-70,text,true,,663,115,25,25,http://saucedemo.com/,74,0,0
+1757868751413,102,HTTP Request (GET)-1,200,OK,Swag Labs 1-70,text,true,,3322,119,25,25,https://www.saucedemo.com/,102,0,0
+1757868750133,1386,HTTP Request (GET),200,OK,Swag Labs 1-88,text,true,,3985,234,24,24,https://www.saucedemo.com/,1138,0,1076
+1757868750133,1138,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-88,text,true,,663,115,24,24,http://saucedemo.com/,1138,0,1076
+1757868751272,247,HTTP Request (GET)-1,200,OK,Swag Labs 1-88,text,true,,3322,119,24,24,https://www.saucedemo.com/,247,0,151
+1757868750183,1347,HTTP Request (GET),200,OK,Swag Labs 1-93,text,true,,3985,234,24,24,https://www.saucedemo.com/,1132,0,1072
+1757868750183,1132,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-93,text,true,,663,115,24,24,http://saucedemo.com/,1132,0,1072
+1757868751316,214,HTTP Request (GET)-1,200,OK,Swag Labs 1-93,text,true,,3322,119,24,24,https://www.saucedemo.com/,214,0,152
+1757868751404,159,HTTP Request (GET),200,OK,Swag Labs 1-80,text,true,,3985,234,24,24,https://www.saucedemo.com/,65,0,0
+1757868751404,65,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-80,text,true,,663,115,24,24,http://saucedemo.com/,65,0,0
+1757868751469,94,HTTP Request (GET)-1,200,OK,Swag Labs 1-80,text,true,,3322,119,24,24,https://www.saucedemo.com/,94,0,0
+1757868751430,155,HTTP Request (GET),200,OK,Swag Labs 1-82,text,true,,3986,234,23,23,https://www.saucedemo.com/,89,0,0
+1757868751430,89,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-82,text,true,,663,115,23,23,http://saucedemo.com/,89,0,0
+1757868751519,66,HTTP Request (GET)-1,200,OK,Swag Labs 1-82,text,true,,3323,119,23,23,https://www.saucedemo.com/,66,0,0
+1757868750236,1350,HTTP Request (GET),200,OK,Swag Labs 1-98,text,true,,3985,234,22,22,https://www.saucedemo.com/,124,0,64
+1757868750236,124,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-98,text,true,,663,115,22,22,http://saucedemo.com/,124,0,64
+1757868750361,1225,HTTP Request (GET)-1,200,OK,Swag Labs 1-98,text,true,,3322,119,22,22,https://www.saucedemo.com/,1225,0,1159
+1757868751103,496,HTTP Request (GET),200,OK,Swag Labs 1-47,text,true,,3985,234,22,22,https://www.saucedemo.com/,416,0,0
+1757868751103,416,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-47,text,true,,663,115,22,22,http://saucedemo.com/,416,0,0
+1757868751520,79,HTTP Request (GET)-1,200,OK,Swag Labs 1-47,text,true,,3322,119,22,22,https://www.saucedemo.com/,79,0,0
+1757868749815,1862,HTTP Request (GET),200,OK,Swag Labs 1-55,text,true,,3985,234,21,21,https://www.saucedemo.com/,1133,0,1067
+1757868749815,1133,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-55,text,true,,663,115,21,21,http://saucedemo.com/,1133,0,1067
+1757868750948,729,HTTP Request (GET)-1,200,OK,Swag Labs 1-55,text,true,,3322,119,21,21,https://www.saucedemo.com/,729,0,137
+1757868749980,1690,HTTP Request (GET),200,OK,Swag Labs 1-72,text,true,,3985,234,21,21,https://www.saucedemo.com/,1141,0,1071
+1757868751530,139,HTTP Request (GET),200,OK,Swag Labs 1-93,text,true,,3986,234,21,21,https://www.saucedemo.com/,69,0,0
+1757868749980,1141,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-72,text,true,,663,115,21,21,http://saucedemo.com/,1141,0,1071
+1757868751530,69,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-93,text,true,,663,115,21,21,http://saucedemo.com/,69,0,0
+1757868751600,69,HTTP Request (GET)-1,200,OK,Swag Labs 1-93,text,true,,3323,119,21,21,https://www.saucedemo.com/,69,0,0
+1757868751122,548,HTTP Request (GET)-1,200,OK,Swag Labs 1-72,text,true,,3322,119,21,21,https://www.saucedemo.com/,548,0,482
+1757868751519,137,HTTP Request (GET),200,OK,Swag Labs 1-88,text,true,,3985,234,21,21,https://www.saucedemo.com/,66,0,0
+1757868751519,66,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-88,text,true,,663,115,21,21,http://saucedemo.com/,66,0,0
+1757868751585,71,HTTP Request (GET)-1,200,OK,Swag Labs 1-88,text,true,,3322,119,21,21,https://www.saucedemo.com/,71,0,0
+1757868750103,1618,HTTP Request (GET),200,OK,Swag Labs 1-85,text,true,,3985,234,19,19,https://www.saucedemo.com/,391,0,59
+1757868750103,391,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-85,text,true,,663,115,19,19,http://saucedemo.com/,391,0,59
+1757868750494,1227,HTTP Request (GET)-1,200,OK,Swag Labs 1-85,text,true,,3322,119,19,19,https://www.saucedemo.com/,1227,0,1155
+1757868749480,2266,HTTP Request (GET),200,OK,Swag Labs 1-21,text,true,,3985,234,19,19,https://www.saucedemo.com/,605,0,83
+1757868749480,605,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-21,text,true,,663,115,19,19,http://saucedemo.com/,605,0,83
+1757868750085,1661,HTTP Request (GET)-1,200,OK,Swag Labs 1-21,text,true,,3322,119,19,19,https://www.saucedemo.com/,1661,0,1156
+1757868750801,967,HTTP Request (GET),200,OK,Swag Labs 1-78,text,true,,3985,234,19,19,https://www.saucedemo.com/,478,0,0
+1757868750801,478,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-78,text,true,,663,115,19,19,http://saucedemo.com/,478,0,0
+1757868751279,489,HTTP Request (GET)-1,200,OK,Swag Labs 1-78,text,true,,3322,119,19,19,https://www.saucedemo.com/,489,0,0
+1757868751687,136,HTTP Request (GET),200,OK,Swag Labs 1-72,text,true,,3985,234,18,18,https://www.saucedemo.com/,67,0,0
+1757868751687,67,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-72,text,true,,663,115,18,18,http://saucedemo.com/,67,0,0
+1757868751754,69,HTTP Request (GET)-1,200,OK,Swag Labs 1-72,text,true,,3322,119,18,18,https://www.saucedemo.com/,69,0,0
+1757868751687,142,HTTP Request (GET),200,OK,Swag Labs 1-55,text,true,,3985,234,17,17,https://www.saucedemo.com/,67,0,0
+1757868751687,67,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-55,text,true,,663,115,17,17,http://saucedemo.com/,67,0,0
+1757868751754,75,HTTP Request (GET)-1,200,OK,Swag Labs 1-55,text,true,,3322,119,17,17,https://www.saucedemo.com/,63,0,0
+1757868750100,1742,HTTP Request (GET),200,OK,Swag Labs 1-84,text,true,,3985,234,16,16,https://www.saucedemo.com/,523,0,67
+1757868750100,523,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-84,text,true,,663,115,16,16,http://saucedemo.com/,523,0,67
+1757868750624,1218,HTTP Request (GET)-1,200,OK,Swag Labs 1-84,text,true,,3322,119,16,16,https://www.saucedemo.com/,1218,0,1149
+1757868751722,127,HTTP Request (GET),200,OK,Swag Labs 1-85,text,true,,3985,234,16,16,https://www.saucedemo.com/,61,0,0
+1757868751722,61,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-85,text,true,,663,115,16,16,http://saucedemo.com/,61,0,0
+1757868751783,66,HTTP Request (GET)-1,200,OK,Swag Labs 1-85,text,true,,3322,119,16,16,https://www.saucedemo.com/,66,0,0
+1757868751842,128,HTTP Request (GET),200,OK,Swag Labs 1-84,text,true,,3985,234,15,15,https://www.saucedemo.com/,67,0,0
+1757868751842,67,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-84,text,true,,663,115,15,15,http://saucedemo.com/,67,0,0
+1757868751909,61,HTTP Request (GET)-1,200,OK,Swag Labs 1-84,text,true,,3322,119,15,15,https://www.saucedemo.com/,61,0,0
+1757868751746,246,HTTP Request (GET),200,OK,Swag Labs 1-21,text,true,,3985,234,14,14,https://www.saucedemo.com/,71,0,0
+1757868751746,71,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-21,text,true,,663,115,14,14,http://saucedemo.com/,71,0,0
+1757868751817,175,HTTP Request (GET)-1,200,OK,Swag Labs 1-21,text,true,,3322,119,14,14,https://www.saucedemo.com/,175,0,0
+1757868751366,630,HTTP Request (GET),200,OK,Swag Labs 1-76,text,true,,3985,234,13,13,https://www.saucedemo.com/,411,0,0
+1757868751366,411,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-76,text,true,,663,115,13,13,http://saucedemo.com/,411,0,0
+1757868751777,219,HTTP Request (GET)-1,200,OK,Swag Labs 1-76,text,true,,3322,119,13,13,https://www.saucedemo.com/,219,0,0
+1757868749608,2449,HTTP Request (GET),200,OK,Swag Labs 1-34,text,true,,3985,234,12,12,https://www.saucedemo.com/,2147,0,1082
+1757868749608,2147,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-34,text,true,,663,115,12,12,http://saucedemo.com/,2147,0,1082
+1757868751756,301,HTTP Request (GET)-1,200,OK,Swag Labs 1-34,text,true,,3322,119,12,12,https://www.saucedemo.com/,301,0,234
+1757868749755,2352,HTTP Request (GET),200,OK,Swag Labs 1-49,text,true,,3985,234,12,12,https://www.saucedemo.com/,1138,0,1071
+1757868749755,1138,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-49,text,true,,663,115,12,12,http://saucedemo.com/,1138,0,1071
+1757868750893,1214,HTTP Request (GET)-1,200,OK,Swag Labs 1-49,text,true,,3322,119,12,12,https://www.saucedemo.com/,1214,0,1148
+1757868749726,2412,HTTP Request (GET),200,OK,Swag Labs 1-46,text,true,,3986,234,12,12,https://www.saucedemo.com/,2202,0,1079
+1757868749726,2202,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-46,text,true,,663,115,12,12,http://saucedemo.com/,2202,0,1079
+1757868751928,210,HTTP Request (GET)-1,200,OK,Swag Labs 1-46,text,true,,3323,119,12,12,https://www.saucedemo.com/,210,0,138
+1757868752058,126,HTTP Request (GET),200,OK,Swag Labs 1-34,text,true,,3985,234,12,12,https://www.saucedemo.com/,59,0,0
+1757868752058,59,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-34,text,true,,663,115,12,12,http://saucedemo.com/,59,0,0
+1757868752117,67,HTTP Request (GET)-1,200,OK,Swag Labs 1-34,text,true,,3322,119,12,12,https://www.saucedemo.com/,67,0,0
+1757868749893,2449,HTTP Request (GET),200,OK,Swag Labs 1-63,text,true,,3985,234,11,11,https://www.saucedemo.com/,1168,0,1103
+1757868749893,1168,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-63,text,true,,663,115,11,11,http://saucedemo.com/,1168,0,1103
+1757868751061,1281,HTTP Request (GET)-1,200,OK,Swag Labs 1-63,text,true,,3322,119,11,11,https://www.saucedemo.com/,1281,0,1220
+1757868752107,457,HTTP Request (GET),200,OK,Swag Labs 1-49,text,true,,3985,234,11,11,https://www.saucedemo.com/,62,0,0
+1757868752107,62,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-49,text,true,,663,115,11,11,http://saucedemo.com/,62,0,0
+1757868752169,395,HTTP Request (GET)-1,200,OK,Swag Labs 1-49,text,true,,3322,119,11,11,https://www.saucedemo.com/,395,0,0
+1757868752342,522,HTTP Request (GET),200,OK,Swag Labs 1-63,text,true,,3985,234,10,10,https://www.saucedemo.com/,60,0,0
+1757868752342,60,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-63,text,true,,663,115,10,10,http://saucedemo.com/,60,0,0
+1757868752402,462,HTTP Request (GET)-1,200,OK,Swag Labs 1-63,text,true,,3322,119,10,10,https://www.saucedemo.com/,462,0,0
+1757868751587,1292,HTTP Request (GET),200,OK,Swag Labs 1-98,text,true,,3985,234,9,9,https://www.saucedemo.com/,69,0,0
+1757868751587,69,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-98,text,true,,663,115,9,9,http://saucedemo.com/,69,0,0
+1757868751656,1223,HTTP Request (GET)-1,200,OK,Swag Labs 1-98,text,true,,3322,119,9,9,https://www.saucedemo.com/,1223,0,0
+1757868750120,4444,HTTP Request (GET),200,OK,Swag Labs 1-52,text,true,,3985,234,8,8,https://www.saucedemo.com/,66,0,0
+1757868750120,66,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-52,text,true,,663,115,8,8,http://saucedemo.com/,66,0,0
+1757868750186,4378,HTTP Request (GET)-1,200,OK,Swag Labs 1-52,text,true,,3322,119,8,8,https://www.saucedemo.com/,4378,0,0
+1757868749499,5466,HTTP Request (GET),200,OK,Swag Labs 1-23,text,true,,3985,234,7,7,https://www.saucedemo.com/,145,0,72
+1757868749499,145,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-23,text,true,,663,115,7,7,http://saucedemo.com/,145,0,72
+1757868749645,5320,HTTP Request (GET)-1,200,OK,Swag Labs 1-23,text,true,,3322,119,7,7,https://www.saucedemo.com/,5320,0,5255
+1757868754965,134,HTTP Request (GET),200,OK,Swag Labs 1-23,text,true,,3985,234,7,7,https://www.saucedemo.com/,67,0,0
+1757868754965,67,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-23,text,true,,663,115,7,7,http://saucedemo.com/,67,0,0
+1757868755032,67,HTTP Request (GET)-1,200,OK,Swag Labs 1-23,text,true,,3322,119,7,7,https://www.saucedemo.com/,67,0,0
+1757868749746,5413,HTTP Request (GET),200,OK,Swag Labs 1-48,text,true,,3985,234,6,6,https://www.saucedemo.com/,5170,0,1067
+1757868749746,5170,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-48,text,true,,663,115,6,6,http://saucedemo.com/,5170,0,1067
+1757868754917,242,HTTP Request (GET)-1,200,OK,Swag Labs 1-48,text,true,,3322,119,6,6,https://www.saucedemo.com/,242,0,173
+1757868749588,5728,HTTP Request (GET),200,OK,Swag Labs 1-32,text,true,,3985,234,6,6,https://www.saucedemo.com/,160,0,92
+1757868749588,160,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-32,text,true,,663,115,6,6,http://saucedemo.com/,160,0,92
+1757868749748,5568,HTTP Request (GET)-1,200,OK,Swag Labs 1-32,text,true,,3322,119,6,6,https://www.saucedemo.com/,5568,0,1159
+1757868755190,130,HTTP Request (GET),200,OK,Swag Labs 1-48,text,true,,3985,234,6,6,https://www.saucedemo.com/,69,0,0
+1757868755190,69,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-48,text,true,,663,115,6,6,http://saucedemo.com/,69,0,0
+1757868755259,61,HTTP Request (GET)-1,200,OK,Swag Labs 1-48,text,true,,3322,119,6,6,https://www.saucedemo.com/,61,0,0
+1757868752138,3183,HTTP Request (GET),200,OK,Swag Labs 1-46,text,true,,3986,234,5,5,https://www.saucedemo.com/,3119,0,0
+1757868752138,3119,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-46,text,true,,663,115,5,5,http://saucedemo.com/,3119,0,0
+1757868755257,64,HTTP Request (GET)-1,200,OK,Swag Labs 1-46,text,true,,3323,119,5,5,https://www.saucedemo.com/,64,0,0
+1757868755317,687,HTTP Request (GET),200,OK,Swag Labs 1-32,text,true,,3985,234,4,4,https://www.saucedemo.com/,69,0,0
+1757868755317,69,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-32,text,true,,663,115,4,4,http://saucedemo.com/,69,0,0
+1757868755386,618,HTTP Request (GET)-1,200,OK,Swag Labs 1-32,text,true,,3322,119,4,4,https://www.saucedemo.com/,618,0,0
+1757868749854,6356,HTTP Request (GET),200,OK,Swag Labs 1-59,text,true,,3985,234,3,3,https://www.saucedemo.com/,5160,0,1073
+1757868749854,5160,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-59,text,true,,663,115,3,3,http://saucedemo.com/,5160,0,1073
+1757868755014,1196,HTTP Request (GET)-1,200,OK,Swag Labs 1-59,text,true,,3322,119,3,3,https://www.saucedemo.com/,1196,0,1135
+1757868756210,1005,HTTP Request (GET),200,OK,Swag Labs 1-59,text,true,,3985,234,3,3,https://www.saucedemo.com/,491,0,0
+1757868756210,491,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-59,text,true,,663,115,3,3,http://saucedemo.com/,491,0,0
+1757868756701,514,HTTP Request (GET)-1,200,OK,Swag Labs 1-59,text,true,,3322,119,3,3,https://www.saucedemo.com/,514,0,0
+1757868749972,15421,HTTP Request (GET),200,OK,Swag Labs 1-71,text,true,,3985,234,2,2,https://www.saucedemo.com/,15165,0,15103
+1757868749972,15165,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-71,text,true,,663,115,2,2,http://saucedemo.com/,15165,0,15103
+1757868765136,257,HTTP Request (GET)-1,200,OK,Swag Labs 1-71,text,true,,3322,119,2,2,https://www.saucedemo.com/,257,0,189
+1757868765393,126,HTTP Request (GET),200,OK,Swag Labs 1-71,text,true,,3985,234,2,2,https://www.saucedemo.com/,62,0,0
+1757868765393,62,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-71,text,true,,663,115,2,2,http://saucedemo.com/,62,0,0
+1757868765455,64,HTTP Request (GET)-1,200,OK,Swag Labs 1-71,text,true,,3322,119,2,2,https://www.saucedemo.com/,64,0,0
+1757868749913,16950,HTTP Request (GET),200,OK,Swag Labs 1-65,text,true,,3985,234,1,1,https://www.saucedemo.com/,15467,0,15112
+1757868749913,15467,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-65,text,true,,663,115,1,1,http://saucedemo.com/,15467,0,15112
+1757868765380,1483,HTTP Request (GET)-1,200,OK,Swag Labs 1-65,text,true,,3322,119,1,1,https://www.saucedemo.com/,1483,0,1416
+1757868766864,142,HTTP Request (GET),200,OK,Swag Labs 1-65,text,true,,3985,234,1,1,https://www.saucedemo.com/,68,0,0
+1757868766864,68,HTTP Request (GET)-0,301,Moved Permanently,Swag Labs 1-65,text,true,,663,115,1,1,http://saucedemo.com/,68,0,0
+1757868766933,73,HTTP Request (GET)-1,200,OK,Swag Labs 1-65,text,true,,3322,119,1,1,https://www.saucedemo.com/,73,0,0
